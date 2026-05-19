@@ -1,12 +1,17 @@
 # Problem Validation Brief
 
-> **Before we talk about your solution, technology, or platform — let's talk about the problem.**
+>"You've got to start with the customer experience and work backwards to the technology. You can't start with the technology and try to figure out where you're going to sell it."
 >
-> The goal of this document is to force a rigorous examination of *the problem you want to solve*, not the product you want to build. The best startups (Uber, Airbnb, Instagram, Stripe) didn't start with technology — they started with a specific, painful, observable problem that real people had. If we can't articulate the problem clearly here, no amount of clever engineering will save the project later.
->
-> Please fill in every section. If a section is hard to answer, that's not a failure — it's a signal that more research or thinking is needed *before* a single line of code is written. Vague answers ("people want better X") are red flags. Specific answers ("freelance designers in Sydney spend ~4 hours every Friday chasing late invoices") are green flags.
->
-> **Do not describe the solution anywhere in sections 1–7.** Section 8 is the only place where you may begin to hint at a direction.
+> — Steve Jobs
+---
+
+**Before we talk about solution, technology, or platform — let's talk about the problem.**
+
+The goal of this document is to force a rigorous examination of *the problem you want to solve*, not the product you want to build. The best startups (Uber, Airbnb, Instagram, Stripe) didn't start with technology — they started with a specific, painful, observable problem that real people had. If we can't articulate the problem clearly here, no amount of clever engineering will save the project later.
+
+Please fill in every section. If a section is hard to answer, that's not a failure — it's a signal that more research or thinking is needed *before* a single line of code is written. Vague answers ("people want better X") are red flags. Specific answers ("freelance designers in Sydney spend ~4 hours every Friday chasing late invoices") are green flags.
+
+**Do not describe the solution anywhere in sections 1–7.** Section 8 is the only place where you may begin to hint at a direction.
 
 ---
 

@@ -4,7 +4,7 @@ Steve Jobs said this at the 1997 WWDC, in response to a hostile question about h
 
 > "You've got to start with the customer experience and work backwards to the technology. You can't start with the technology and try to figure out where you're going to sell it."
 
-It's one of the most-cited quotes in product thinking, and yes — there's a whole school of startup philosophy built around this idea.
+It's one of the most-cited quotes in product thinking, backed by a whole school of startup philosophy built around this idea.
 
 ## The Core Principle: Problem-First Thinking
 

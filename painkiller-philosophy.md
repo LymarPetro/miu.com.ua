@@ -33,7 +33,7 @@ Paul Graham has written extensively that the #1 reason startups fail is building
 
 ## Why the Iconic Examples Work
 
-The companies you mentioned all fit this pattern — and notice that none of them started with novel technology. They started with a frustration.
+Notice how none of the companies that fit the pattern started with novel technology. They started with a frustration.
 
 **Instagram** — Kevin Systrom's first app, Burbn, was a complicated location check-in app with photo-sharing tacked on. He noticed users only cared about the photo feature. He stripped everything else away. The problem: phone cameras took ugly photos, and sharing them was clunky. The solution: filters + one-tap sharing. Twelve weeks of development, sold to Facebook for $1B eighteen months later.
 

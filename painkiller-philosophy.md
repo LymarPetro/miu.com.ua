@@ -41,7 +41,7 @@ Notice how none of the companies that fit the pattern started with novel technol
 
 **Uber** — Garrett Camp and Travis Kalanick couldn't get a cab in Paris. That was it. The problem: hailing a ride is unreliable and unpleasant. The solution: press a button, a car comes. GPS, smartphones, and payments already existed — Uber just composed them around the customer experience.
 
-**Airbnb** (worth adding) — The founders couldn't pay rent. They noticed a design conference had sold out every hotel in San Francisco. Problem: travelers needed cheap beds, locals had spare space. Solution: a website to connect them. No new technology invented.
+**Airbnb** — The founders couldn't pay rent. They noticed a design conference had sold out every hotel in San Francisco. Problem: travelers needed cheap beds, locals had spare space. Solution: a website to connect them. No new technology invented.
 
 ## How to Formulate It as a Philosophy
 

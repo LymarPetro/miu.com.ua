@@ -4,7 +4,7 @@ Steve Jobs said this at the 1997 WWDC, in response to a hostile question about h
 
 > "You've got to start with the customer experience and work backwards to the technology. You can't start with the technology and try to figure out where you're going to sell it."
 
-It's one of the most-cited quotes in product thinking, and yes — there's a whole school of startup philosophy built around this idea.
+It's one of the most-cited quotes in product thinking, backed by a whole school of startup philosophy built around this idea.
 
 ## The Core Principle: Problem-First Thinking
 
@@ -33,7 +33,7 @@ Paul Graham has written extensively that the #1 reason startups fail is building
 
 ## Why the Iconic Examples Work
 
-The companies you mentioned all fit this pattern — and notice that none of them started with novel technology. They started with a frustration.
+Notice how none of the companies that fit the pattern started with novel technology. They started with a frustration.
 
 **Instagram** — Kevin Systrom's first app, Burbn, was a complicated location check-in app with photo-sharing tacked on. He noticed users only cared about the photo feature. He stripped everything else away. The problem: phone cameras took ugly photos, and sharing them was clunky. The solution: filters + one-tap sharing. Twelve weeks of development, sold to Facebook for $1B eighteen months later.
 
@@ -41,7 +41,7 @@ The companies you mentioned all fit this pattern — and notice that none of the
 
 **Uber** — Garrett Camp and Travis Kalanick couldn't get a cab in Paris. That was it. The problem: hailing a ride is unreliable and unpleasant. The solution: press a button, a car comes. GPS, smartphones, and payments already existed — Uber just composed them around the customer experience.
 
-**Airbnb** (worth adding) — The founders couldn't pay rent. They noticed a design conference had sold out every hotel in San Francisco. Problem: travelers needed cheap beds, locals had spare space. Solution: a website to connect them. No new technology invented.
+**Airbnb** — The founders couldn't pay rent. They noticed a design conference had sold out every hotel in San Francisco. Problem: travelers needed cheap beds, locals had spare space. Solution: a website to connect them. No new technology invented.
 
 ## How to Formulate It as a Philosophy
 
